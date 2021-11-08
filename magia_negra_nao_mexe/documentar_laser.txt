@@ -1,0 +1,20 @@
+- Useful links:
+	- Sopas software: https://www.sick.com/br/pt/sopas-engineering-tool/p/p367244
+	- Getting data: https://sickusablog.com/how-to-view-diagnostic-and-host-data-in-sopas/
+	- Saving/logging info: https://sickusablog.com/create-and-download-a-sopas-file/
+	- RaspPi image:
+	- RosAria zip files:
+	- ros ROSARIA package: http://wiki.ros.org/ROSARIA
+	- ros LMS1xx package: http://wiki.ros.org/LMS1xx
+	- ros sick_scan package: http://wiki.ros.org/sick_scan
+
+- Download Sick SOPAS Engineering tool
+- Go to DEVICE CATALOG tab, on the upper-right corner
+- Add devices, from Driver Repository, 
+	- check all responses to lms1 search
+	- include lms1000 and lms1xx drivers (?)
+- Turn Laser on, connect ethernet, check cables and ethernet blinking lights
+- Search for device
+- Install any other recomended driver
+- Edit ip to automatic
+- 
